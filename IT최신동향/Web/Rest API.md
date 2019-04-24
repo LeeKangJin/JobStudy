@@ -37,9 +37,9 @@ REST(2008)
             -메시지는 스스로를 설명해야한다. 
             
 
-  GET / HTTP/1.1
-  
-  GET / HTTP/1.1/Host:www.example.org
+    GET / HTTP/1.1
+
+    GET / HTTP/1.1/Host:www.example.org
 
 
 참고 링크 : 네이버 D2에서 REST API 강연.
