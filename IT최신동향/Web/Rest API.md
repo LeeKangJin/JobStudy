@@ -37,9 +37,9 @@ REST(2008)
             -메시지는 스스로를 설명해야한다. 
             
 
-    GET / HTTP/1.1
+    GET / HTTP/1.1  // 목적지가 없다. (스스로를 증명 불가)
 
-    GET / HTTP/1.1/Host:www.example.org
+    GET / HTTP/1.1/Host:www.example.org //(스스로를 증명 가능한 REST 요청)
 
 
 참고 링크 : 네이버 D2에서 REST API 강연.
