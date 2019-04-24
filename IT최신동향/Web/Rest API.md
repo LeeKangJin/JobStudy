@@ -26,6 +26,8 @@ REST(1998)
     +XML API (SOAP) 이 처음 만들어짐.
     
 REST(2008)
+
+    SOAP을 정리 새롭게 REST를 발표.
     
     분산 하이퍼미디어 시스템을 위한 아키텍쳐 스타일
         1.client-server 구조
