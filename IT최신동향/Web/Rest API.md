@@ -32,6 +32,8 @@ EXAMPLE
  <div>
   <img width="300" src = "https://user-images.githubusercontent.com/28384064/56638352-dd9b6b80-66a8-11e9-8d6b-5b1a6ad60590.png">
  </div>
+ 
+    위와 같이 프로토콜 또는 환경 변경에 따라 화면이 꺠질수는 있으나, Uniform interface에 따라 안돌아가진 않음  (REST의 방향성 : 호환은 되게 하자 )
     
    
     
