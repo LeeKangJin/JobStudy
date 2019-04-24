@@ -8,7 +8,6 @@
 2.  DeadLock – 발생요건 Hold&Wait , No preemption, Circular wait, Mutual exclusion.
 -  회피방법 Semaphor
 
-3. Class 개념 설명
 
 4. Linux Modular 개념?
 
@@ -24,9 +23,6 @@
 
 10. php js 차이점  : php (back-server side) js(front client side)
 
-11. WAS
-
-12. REST’ful api
 
 13. JVM/ JRE
 
@@ -35,8 +31,6 @@
 15.  compile - 기계어로 만듬 , bulid - 외부라이브러리 실행 , run - 모든과정을 통칭 
 
 16.   bind, post, get (socet 용어 정리)
-
-17.  Framwork
 
 18.  db 정규화
 
