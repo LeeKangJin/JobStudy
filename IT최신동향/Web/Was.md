@@ -12,9 +12,9 @@ JAVA EE (JAVA Servlet + JSP) 를 표준을 사용.
         
         클라이언트 요청 -> JSP가 WAS에서 실행 -> HTML형태로 변환 후 화면 뿌려줌.
         
-        <div>
-        <img width ="200" src = "https://github.com/LeeKangJin/JobStudy/issues/1#issue-436513638.png">
-        </div>
+<div>
+<img width ="200" src = "https://github.com/LeeKangJin/JobStudy/issues/1#issue-436513638.png">
+</div>
 
         
         
