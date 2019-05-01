@@ -1,7 +1,13 @@
 # JobStudy
 
 
+참고 사이트
+
 https://github.com/JaeYeopHan/Interview_Question_for_Beginner
+
+
+
+https://gmlwjd9405.github.io/
 
 정리해야할 목록
 
