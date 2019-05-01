@@ -3,11 +3,17 @@
 
 참고 사이트
 
+종합정리
 https://github.com/JaeYeopHan/Interview_Question_for_Beginner
 
 
-
+디자인 패턴
 https://gmlwjd9405.github.io/
+
+
+
+알고리즘
+https://gmlwjd9405.github.io/2017/10/01/basic-concepts-of-development-algorithm.html
 
 정리해야할 목록
 
