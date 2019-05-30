@@ -20,6 +20,8 @@
 
 ## U
 
+##### Table
+
 *제약조건추가*
 
 ALTER TABLE [테이블명]ADD PRIMARY KEY(ID);
@@ -43,6 +45,16 @@ ALTER TABLE [테이블명]ADD REGDATE(DATE);
 ALTER TABLE [테이블명]RENAME COLUM SIZE TO CSIZE;
 
 ALTER TABLE [테이블명]RENAME [테이블명2];
+
+
+
+##### Value
+
+UPDATE [테이블명] SET [컬럼명]='111' ,[컬럼명2]='222' WHERE ID='ID01';
+
+
+
+INSERT INTO [테이블명] VALUE('ID','PW','이름');
 
 
 
