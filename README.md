@@ -17,6 +17,10 @@ https://gmlwjd9405.github.io/2017/10/01/basic-concepts-of-development-algorithm.
 
 
 
+공모전 사이트
+https://www.wevity.com/?c=find&s=1&gub=1&cidx=21
+
+
 /////////
 
 1. 공부 목표
